@@ -1,1 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.hsn0918.middleware.dynamic.thread.pool.sdk.config.DynamicThreadPoolAutoConfig
+org.springframework.boot.autoconfigure.condition.ConditionalOnProperty=com.hsn0918.middleware.dynamic.thread.pool.sdk.config.DynamicThreadPoolAutoProperties

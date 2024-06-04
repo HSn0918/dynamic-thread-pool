@@ -1,0 +1,13 @@
+24-06-04.23:48:59.356 [main            ] INFO  Application            - Starting Application using Java 1.8.0_402 on HSnMini.local with PID 33968 (/Users/mac/github.com/hsn0918/dynamic-thread-pool/dynamic-thread-pool-test/target/classes started by mac in /Users/mac/github.com/hsn0918/dynamic-thread-pool)
+24-06-04.23:48:59.356 [main            ] INFO  Application            - The following 1 profile is active: "dev"
+24-06-04.23:49:00.192 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-06-04.23:49:00.194 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-06-04.23:49:00.214 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+24-06-04.23:49:00.482 [main            ] INFO  TomcatWebServer        - Tomcat initialized with port(s): 8091 (http)
+24-06-04.23:49:00.487 [main            ] INFO  Http11NioProtocol      - Initializing ProtocolHandler ["http-nio-8091"]
+24-06-04.23:49:00.487 [main            ] INFO  StandardService        - Starting service [Tomcat]
+24-06-04.23:49:00.487 [main            ] INFO  StandardEngine         - Starting Servlet engine: [Apache Tomcat/9.0.75]
+24-06-04.23:49:00.534 [main            ] INFO  [/]                    - Initializing Spring embedded WebApplicationContext
+24-06-04.23:49:00.534 [main            ] INFO  ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1137 ms
+24-06-04.23:49:09.035 [main            ] INFO  DynamicThreadPoolAutoConfig - dynamicThreadPoolPollService init, applicationName: dynamic-thread-pool-test-app
+24-06-04.23:49:17.021 [main            ] INFO  DynamicThreadPoolAutoConfig - dynamicThreadPoolPollService init, threadPoolExecutorMap: ["threadPoolExecutor01","threadPoolExecutor02"]
